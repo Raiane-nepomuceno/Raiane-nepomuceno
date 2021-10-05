@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje trabalho com testes
-- 🌱 Estudando
  
 <div align="center">
   <a href="https://github.com/Raiane-nepomuceno">
