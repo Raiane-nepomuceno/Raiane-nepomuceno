@@ -1,7 +1,7 @@
 ## Olá, sou a Raiane Nepomuceno!
 
 
-- 🔭 Hoje trabalho com testes
+- 🔭 Atualmente trabalho com testes
  
 <div align="center">
   <a href="https://github.com/Raiane-nepomuceno">
