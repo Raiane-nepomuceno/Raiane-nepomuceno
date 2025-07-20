@@ -1,18 +1,24 @@
 ## Olá! 👋 Me chamo Raiane Nepomuceno
 
-💻 Atualmente trabalho com **Qualidade de Software** e sou apaixonada por garantir que produtos cheguem aos usuários com a melhor experiência possível.  
-🔍 Tenho experiência com **testes manuais** e **automação** (UI e API), e busco sempre aprimorar minhas habilidades e aprender novas tecnologias.  
-📚 Estudando continuamente temas relacionados a **testes automatizados**, **usabilidade** e **certificação CTFL 4.0**.
+💻 Trabalho com **Qualidade de Software** e sou apaixonada por garantir que produtos cheguem aos usuários com a melhor experiência possível.  
+🔍 Tenho experiência com **testes manuais** e **automação de testes (UI e API)**, utilizando ferramentas como **Cypress**, **Cypress Cloud** e **Playwright**.  
+🧪 Em meus projetos pessoais, venho praticando a integração de testes automatizados com **GitHub Actions**, aplicando pipelines para execução e monitoramento contínuo.  
+📚 Estou sempre estudando temas relacionados a **testes automatizados**, **usabilidade**, **design de testes** e me preparando para a **certificação CTFL 4.0**.
 
 ---
 
-### 🛠️ Tecnologias que tenho usado:
+### 🛠️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cypress" height="30" width="30" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/icon/cypress-io-icon.svg">
+  <img align="center" alt="Playwright" height="30" width="30" src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="GitHub Actions" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+> ✅ Utilizo **Cypress Cloud** para gestão e visualização de execuções em pipelines.
 
 ---
 
@@ -26,11 +32,4 @@
 
 ### 🌐 Onde me encontrar:
 <div>
-  <a href = "mailto:nepomucenoraiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raiane-nepomuceno-1a454a19a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
----
-
-<!-- Snake contribution animation -->
-![Snake animation](https://github.com/Raiane-nepomuceno/Raiane-nepomuceno/blob/output/github-contribution-grid-snake.svg)
+  <a href = "mailto:nepomucenoraiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?sty
